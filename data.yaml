@@ -1,0 +1,16 @@
+path: C:/HeritageGuard/HeritageGuard_YOLO
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 7
+
+names:
+  0: Discolouration
+  1: Surface dissolution
+  2: Fabric loss of masonry units
+  3: Plant
+  4: Cracks
+  5: Efflorescence
+  6: Moss
